@@ -1,4 +1,4 @@
-package com.jriba.comptador
+package com.jriba.ribacomptador
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

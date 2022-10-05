@@ -1,4 +1,4 @@
-package com.jriba.comptador
+package com.jriba.ribacomptador
 
 import org.junit.Test
 

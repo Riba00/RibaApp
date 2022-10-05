@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.jriba.comptador'
+    namespace 'com.jriba.ribacomptador'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.jriba.comptador"
+        applicationId "com.jriba.ribacomptador"
         minSdk 21
         targetSdk 32
         versionCode 1
