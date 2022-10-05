@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.jriba.comptador
 
 import org.junit.Test
 
