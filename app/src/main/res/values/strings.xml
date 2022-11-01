@@ -2,5 +2,5 @@
     <string name="app_name">RibaComptador</string>
     <string name="touchme">APRETA\'M</string>
     <string name="timeText">Temps disponible %1$d</string>
-    <string name="endGame">Temps acabat</string>
+    <string name="endGame">Temps acabat! Resultat : %1$d</string>
 </resources>
