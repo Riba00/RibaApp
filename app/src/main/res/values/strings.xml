@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">RibaComptador</string>
     <string name="touchme">APRETA\'M</string>
-    <string name="timeText">Temps disponible %1$d</string>
+    <string name="puntuacio">%1$d</string>
+    <string name="timeText">Temps: %1$d s</string>
     <string name="endGame">Temps acabat! Resultat : %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Riba Comptador %1$s</string>
+    <string name="aboutMessage">Creat per Jordi Riba Github: https://github.com/Riba00/RibaApp</string>
 </resources>
